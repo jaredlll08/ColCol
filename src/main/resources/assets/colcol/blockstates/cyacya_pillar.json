@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:cyacya_pillar" },
+    "axis=z": { "model": "colcol:cyacya_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:cyacya_pillar", "x": 90, "y": 90 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "colcol:blocks/silsil_block",
+    "top": "colcol:blocks/silsil_block",
+    "side": "colcol:blocks/silsil_block"
+  }
+}

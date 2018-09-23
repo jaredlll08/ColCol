@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "colcol:blocks/pinpin_pillar_top",
+    "side": "colcol:blocks/pinpin_pillar"
+  }
+}

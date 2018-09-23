@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colcol",
+  "name": "Colcol",
+  "description": "Addadd somsom colcol toto youyou liflif.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jaredlll08", "JarJar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:yelyel_pillar" },
+    "axis=z": { "model": "colcol:yelyel_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:yelyel_pillar", "x": 90, "y": 90 }
+  }
+}

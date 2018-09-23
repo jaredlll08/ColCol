@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:whiwhi_pillar" },
+    "axis=z": { "model": "colcol:whiwhi_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:whiwhi_pillar", "x": 90, "y": 90 }
+  }
+}

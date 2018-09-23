@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "colcol:blocks/magmag_block",
+    "top": "colcol:blocks/magmag_block",
+    "side": "colcol:blocks/magmag_block"
+  }
+}

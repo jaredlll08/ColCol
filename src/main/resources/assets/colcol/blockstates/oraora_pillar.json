@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:oraora_pillar" },
+    "axis=z": { "model": "colcol:oraora_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:oraora_pillar", "x": 90, "y": 90 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=default": { "model": "colcol:half_slab_brobro" },
+    "half=top,variant=default": { "model": "colcol:upper_slab_brobro" }
+  }
+}

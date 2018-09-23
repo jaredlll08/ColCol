@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "colcol:blocks/blublu_block",
+    "top": "colcol:blocks/blublu_block",
+    "side": "colcol:blocks/blublu_block"
+  }
+}

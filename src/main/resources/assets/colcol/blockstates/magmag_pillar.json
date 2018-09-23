@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:magmag_pillar" },
+    "axis=z": { "model": "colcol:magmag_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:magmag_pillar", "x": 90, "y": 90 }
+  }
+}

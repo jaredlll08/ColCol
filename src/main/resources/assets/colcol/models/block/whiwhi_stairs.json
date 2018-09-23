@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "colcol:blocks/whiwhi_block",
+    "top": "colcol:blocks/whiwhi_block",
+    "side": "colcol:blocks/whiwhi_block"
+  }
+}

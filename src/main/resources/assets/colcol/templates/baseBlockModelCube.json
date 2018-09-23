@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "%modid%:blocks/%textureUp%",
+        "down": "%modid%:blocks/%textureDown%",
+        "up": "%modid%:blocks/%textureUp%",
+        "north": "%modid%:blocks/%textureNorth%",
+        "east": "%modid%:blocks/%textureEast%",
+        "south": "%modid%:blocks/%textureSouth%",
+        "west": "%modid%:blocks/%textureWest%"
+    }
+}

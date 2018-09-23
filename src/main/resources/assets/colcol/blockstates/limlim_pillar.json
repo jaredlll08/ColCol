@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:limlim_pillar" },
+    "axis=z": { "model": "colcol:limlim_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:limlim_pillar", "x": 90, "y": 90 }
+  }
+}

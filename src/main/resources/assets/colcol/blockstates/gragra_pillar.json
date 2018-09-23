@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:gragra_pillar" },
+    "axis=z": { "model": "colcol:gragra_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:gragra_pillar", "x": 90, "y": 90 }
+  }
+}

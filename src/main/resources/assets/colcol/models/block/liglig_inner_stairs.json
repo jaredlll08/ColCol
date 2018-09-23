@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "colcol:blocks/liglig_block",
+    "top": "colcol:blocks/liglig_block",
+    "side": "colcol:blocks/liglig_block"
+  }
+}

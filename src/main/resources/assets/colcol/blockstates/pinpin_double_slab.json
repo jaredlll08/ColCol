@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "variant=default": { "model": "colcol:pinpin_block" }
+  }
+}

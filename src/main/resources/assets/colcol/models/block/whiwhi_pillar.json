@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "colcol:blocks/whiwhi_pillar_top",
+    "side": "colcol:blocks/whiwhi_pillar"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "colcol:silsil_pillar" },
+    "axis=z": { "model": "colcol:silsil_pillar", "x": 90 },
+    "axis=x": { "model": "colcol:silsil_pillar", "x": 90, "y": 90 }
+  }
+}

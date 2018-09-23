@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "colcol:blocks/brobro_pillar_top",
+    "side": "colcol:blocks/brobro_pillar"
+  }
+}
